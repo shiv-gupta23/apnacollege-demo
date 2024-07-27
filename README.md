@@ -1,4 +1,3 @@
-# apnacollege-demo
-This is my first Git Repository
-<br>
-Author-Shiv Gupta
+# To-Do-list
+A responsive To-Do-list login-page developed during my web development 
+intership.
